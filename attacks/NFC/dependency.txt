@@ -1,0 +1,5 @@
+autoconf
+libtool
+libusb-dev
+libpcsclite-dev
+build-essential
